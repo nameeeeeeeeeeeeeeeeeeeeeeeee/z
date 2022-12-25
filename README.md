@@ -1,6 +1,7 @@
 <html>
     <body>
         <header>
+            <link rel="style" href="z.css">
             <img src="/uploads/2020/11/logo_0_1606475988.png"/>
             <a href="#news">Новости</a>
             <a href="#contest">Конкурс</a>
